@@ -1,0 +1,27 @@
+.banner {
+  background-image: url("../../images/background.png");
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  justify-content: space-around;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 100%
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: #bbb;
+  font-size: 20px;
+  padding-bottom: 25px;
+}
+
+.banner a {
+  padding: 15px 30px;
+  background-color: #6e6;
+  color: white;
+  border-radius: 30px
+}

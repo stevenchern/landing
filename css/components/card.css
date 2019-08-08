@@ -1,0 +1,22 @@
+.cards {
+  display: flex;
+  align-content: center;
+  justify-content: bottom;
+  margin: 0 auto;
+  width: 900px;
+}
+
+.card {
+  text-align: center;
+  width: 150px;
+  margin: 0 auto;
+
+}
+
+.card img {
+  height: 100px;
+}
+
+.container h2 {
+  text-align: center;
+}
